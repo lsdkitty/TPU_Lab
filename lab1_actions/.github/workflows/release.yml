@@ -5,7 +5,9 @@ on:
     branches:
       - main
       - feature/github_actions
+      - lab1
 
+    
 jobs:
   build:
     runs-on: ubuntu-latest
